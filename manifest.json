@@ -1,0 +1,16 @@
+{
+    "name": "Persian Daily Calender",
+    "version": "1.0.0",
+    "description": "Persian Daily Calender",
+    "manifest_version": 2,
+    "author": "Ari23yan",
+    "icons": {
+        "16": "calendar.png",
+        "48": "calendar.png",
+        "128": "calendar.png"
+      },
+      "browser_action": {
+        "default_popup": "index.html",
+        "default_title": "Persian Daily Calender"
+      }
+}
